@@ -40,7 +40,7 @@ Realización de la especificación de los requerimientos en el apartado de la ge
 ![act4](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act4.PNG)
 
 
-### Cinco Requerimiento
+### Quinto Requerimiento
 ![req5](https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req5.PNG)
 
 ![act5](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act5.PNG)
@@ -74,22 +74,22 @@ Kanban es una metodología agil enfocada al desarrollo de software  cuyo objetiv
 
 Se realizó un seguimiento diario mediante la metodologia Kanban en la cual cada día se visualiza el avance del proyecto según las tareas en reserva, realizadas y por realizar. 
 
-Dia 1 - 21/08/2020
+#### Dia 1 - 21/08/2020
 ![k1](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k1.PNG)
 
-Dia 2 - 22/08/2020
+#### Dia 2 - 22/08/2020
 ![k2](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k2.PNG)
 
-Dia 3 - 23/08/2020
+#### Dia 3 - 23/08/2020
 ![k3](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k3.PNG)
 
-Dia 4 - 24/08/2020
+#### Dia 4 - 24/08/2020
 ![k4](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k4.PNG)
 
-Dia 5 - 25/08/2020
+#### Dia 5 - 25/08/2020
 ![k5](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k5.PNG)
 
-Dia 6 - 26/08/2020
+#### Dia 6 - 26/08/2020
 ![k6](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k6.PNG)
 
 
