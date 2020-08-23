@@ -16,30 +16,30 @@ introducción random
 
 parrafo random 
 
-![req1]https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req1.PNG)
+![req1](https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req1.PNG)
 
-https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act1.PNG
+![act1](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act1.PNG)
 
 ![req2](https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req2.PNG)
 
-https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act2.PNG
+![act2](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act2.PNG)
 
 ![req3](https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req3.PNG)
 
-https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act3.PNG
+![act3](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act3.PNG)
 
 ![req4](https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req4.PNG)
 
-https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act4.PNG
+![act4](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act4.PNG)
 
 ![req5](https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req5.PNG)
 
-https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act5.PNG
+![act5](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act5.PNG)
 
 ![req6](https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req6.PNG)
 
-https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act6.PNG
+![act6](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act6.PNG)
 
 ![req7](https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req7.PNG)
 
-https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act7.PNG
+![act](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act7.PNG)
