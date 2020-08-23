@@ -5,8 +5,9 @@
 ### Juan Sebastian Mancera Gaitan 20171020047
 ### Pedro Barrera Alfonso 20171020057
 
-introducción random
+El proyecto consiste en generar un proyecto para la gestión de un banco de preguntas que permita la integración de usuarios con roles asignados para acceder al banco de preguntas.
 
+Para el desarrollo del proyecto se eligió seguir la metodología Kanban orientado desde el desarrollo de pruebas de escritorio. 
 
 
 ## Diagrama de Casos de Uso
@@ -14,15 +15,12 @@ introducción random
 
 ## Requerimientos Generales para la Gestión de Usuarios:
 
-parrafo random 
-
-
+Realización de la especificación de los requerimientos en el apartado de la gestión de usuarios para responder a la necesidad de la implementación versatil de una gestión de Usuario.
 
 ### Primer Requerimiento
 ![req1](https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req1.PNG)
 
 ![act1](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act1.PNG)
-
 
 
 ### Segundo Requerimiento
@@ -59,7 +57,8 @@ parrafo random
 
 ## Generalización
 
-Otro parrafo random
+Basado en el desarrollo orientado desde las pruebas de escritorio se diseñó un modelo de Generalización para las entidades existentes con la finalidad de visualizar los registros y sus tipos correspondientes. 
+
 
 ![d1](https://github.com/jsmzdf/FISF/blob/master/Generalizaci%C3%B3n/d1.PNG)
 ![g1](https://github.com/jsmzdf/FISF/blob/master/Generalizaci%C3%B3n/g1.PNG)
@@ -67,15 +66,13 @@ Otro parrafo random
 
 ## Diagrama de Clases
 
-another random paragraph  
-get me out of Latin America
-
 ![cla1](https://github.com/jsmzdf/FISF/blob/master/Diagrama%20de%20Clases/Diagrama_Clases.PNG)
 
 ## Metodología Kanban
 
-se explica la metodologia bla bla bla bla y la iteración 
+Kanban es una metodología agil enfocada al desarrollo de software  cuyo objetivo es gestionar de manera general cómo se van completando las tareas,Kanban es fácil de utilizar, actualizar y asumir por parte del equipo. Además, destaca por ser una técnica de gestión de las tareas de forma visual.
 
+Se realizó un seguimiento diario mediante la metodologia Kanban en la cual cada día se visualiza el avance del proyecto según las tareas en reserva, realizadas y por realizar. 
 
 Dia 1 - 21/08/2020
 ![k1](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k1.PNG)
