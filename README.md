@@ -43,3 +43,40 @@ parrafo random
 ![req7](https://github.com/jsmzdf/FISF/blob/master/Requerimientos/Req7.PNG)
 
 ![act](https://github.com/jsmzdf/FISF/blob/master/Diagramas%20de%20Actividades/act7.PNG)
+
+## Generalización
+
+Otro parrafo random
+
+![d1](https://github.com/jsmzdf/FISF/blob/master/Generalizaci%C3%B3n/d1.PNG)
+![g1](https://github.com/jsmzdf/FISF/blob/master/Generalizaci%C3%B3n/g1.PNG)
+
+
+## Diagrama de Clases
+
+another random paragraph  
+get me out of Latin America
+
+![cla1](https://github.com/jsmzdf/FISF/blob/master/Diagrama%20de%20Clases/Diagrama_Clases.PNG)
+
+## Metodología Kanban
+
+se explica la metodologia bla bla bla bla y la iteración 
+
+
+Dia 1 - 21/08/2020
+![k1](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k1.PNG)
+Dia 2 - 22/08/2020
+![k2](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k2.PNG)
+Dia 3 - 23/08/2020
+![k3](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k3.PNG)
+Dia 4 - 24/08/2020
+![k4](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k4.PNG)
+Dia 5 - 25/08/2020
+![k5](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k5.PNG)
+Dia 6 - 26/08/2020
+![k6](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k6.PNG)
+
+
+
+
