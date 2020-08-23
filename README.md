@@ -66,14 +66,19 @@ se explica la metodologia bla bla bla bla y la iteración
 
 Dia 1 - 21/08/2020
 ![k1](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k1.PNG)
+
 Dia 2 - 22/08/2020
 ![k2](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k2.PNG)
+
 Dia 3 - 23/08/2020
 ![k3](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k3.PNG)
+
 Dia 4 - 24/08/2020
 ![k4](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k4.PNG)
+
 Dia 5 - 25/08/2020
 ![k5](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k5.PNG)
+
 Dia 6 - 26/08/2020
 ![k6](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k6.PNG)
 
