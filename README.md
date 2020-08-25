@@ -70,8 +70,6 @@ Basado en el desarrollo orientado desde las pruebas de escritorio se diseñó un
 
 ## Historias de Usuario 
 
-lorep insum no se uqe mndas 
-
 ![hu1](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu1.PNG)
 ![hu2](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu2.PNG)
 ![hu3](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu3.PNG)
