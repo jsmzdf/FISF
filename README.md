@@ -68,6 +68,20 @@ Basado en el desarrollo orientado desde las pruebas de escritorio se diseñó un
 
 ![cla1](https://github.com/jsmzdf/FISF/blob/master/Diagrama%20de%20Clases/Diagrama_Clases.PNG)
 
+## Historias de Usuario 
+
+lorep insum no se uqe mndas 
+
+![hu1](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu1.PNG)
+![hu2](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu2.PNG)
+![hu3](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu3.PNG)
+![hu4](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu4.PNG)
+![hu5](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu5.PNG)
+![hu6](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu6.PNG)
+![hu7](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu7.PNG)
+![hu8](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu8.PNG)
+![hu9](https://github.com/jsmzdf/FISF/blob/master/Historias_Usuario/hu9.PNG)
+
 ## Metodología Kanban
 
 Kanban es una metodología agil enfocada al desarrollo de software  cuyo objetivo es gestionar de manera general cómo se van completando las tareas,Kanban es fácil de utilizar, actualizar y asumir por parte del equipo. Además, destaca por ser una técnica de gestión de las tareas de forma visual.
