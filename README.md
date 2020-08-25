@@ -86,27 +86,22 @@ Kanban es una metodología agil enfocada al desarrollo de software  cuyo objetiv
 
 Se realizó un seguimiento diario mediante la metodologia Kanban en la cual cada día se visualiza el avance del proyecto según las tareas en reserva, realizadas y por realizar. 
 
-#### Dia 1 - 21/08/2020
+### Dia 1 - 21/08/2020
 ![k1](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k1.PNG)
 
-#### Dia 2 - 22/08/2020
+### Dia 2 - 22/08/2020
 ![k2](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k2.PNG)
 ![k2.1](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k21.PNG)
 
-#### Dia 3 - 23/08/2020
+### Dia 3 - 23/08/2020
 ![k3](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k3.PNG)
 ![k31](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k31.PNG)
 ![k32](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k32.PNG)
 ![k33](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k33.PNG)
 
-#### Dia 4 - 24/08/2020
+### Dia 4 - 24/08/2020
 ![k4](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k4.PNG)
 
-#### Dia 5 - 25/08/2020
-![k5](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k5.PNG)
-
-#### Dia 6 - 26/08/2020
-![k6](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k6.PNG)
 
 
 
