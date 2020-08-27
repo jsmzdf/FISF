@@ -101,6 +101,12 @@ Se realizó un seguimiento diario mediante la metodologia Kanban en la cual cada
 
 ### Dia 4 - 24/08/2020
 ![k4](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k4.PNG)
+![k4](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k41.PNG)
+![k4](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k42.PNG)
+![k4](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k43.PNG)
+![k4](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k44.PNG)
+![k4](https://github.com/jsmzdf/FISF/blob/master/Tableros%20Kanban/k45.PNG)
+
 
 
 
